@@ -22,6 +22,8 @@ You are all going to be assigned to group of 3-5 students. As a group, you must 
 
 **4** You have an hour and 15 minutes to build
 
+**5** Make sure your final project is hosted on Github.com and that every group member has collaborator access to the repository.
+
 ###Presentations
 
 **1** Every group must present and every group member must help present
