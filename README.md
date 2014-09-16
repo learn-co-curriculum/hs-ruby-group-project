@@ -7,7 +7,7 @@ type: group-project
 
 ###The Build Up
 
-Think back to week one when we learned how to use terminal. Heck we even learned what termianl is. We blew through all the Ruby basics (data types, variables, methods, data structures..the list goes on). We've covered a LOT of material so far, and today's the day we put that knowledge to the test.
+Think back to week one when we learned how to use terminal. Heck we even learned what terminal is. We blew through all the Ruby basics (data types, variables, methods, data structures..the list goes on). We've covered a LOT of material so far, and today's the day we put that knowledge to the test.
 
 ### The Task
 
