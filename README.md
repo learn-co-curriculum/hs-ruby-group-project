@@ -3,9 +3,10 @@ tags: kids, ruby, group project
 languages: ruby
 type: group-project
 ---
+<img src="https://after-school-assets.s3.amazonaws.com/calculator.gif" width="600px" align="right" hspace="10">
 
 ### Putting It All Together
-<img src="https://after-school-assets.s3.amazonaws.com/calculator.gif" width="200px" align="right" hspace="10"> Think back to week one when you learned how to use terminal. In a short time, you mastered the Ruby basics (data types, variables, methods, data structures, etc.) and laid the foundation for the rest of your career as a Rubyist. Today you'll put that knowledge to the test.
+Think back to week one when you learned how to use terminal. In a short time, you mastered the Ruby basics (data types, variables, methods, data structures, etc.) and laid the foundation for the rest of your career as a Rubyist. Today you'll put that knowledge to the test.
 
 ### The Task
 In groups of 3-5 students, you must build a command line calculator. 
