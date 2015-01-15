@@ -5,10 +5,10 @@ type: group-project
 ---
 
 ### Putting It All Together
-<img src="https://after-school-assets.s3.amazonaws.com/calculator.gif" width="500px">
 Think back to week one when you learned how to use terminal. In a short time, you mastered the Ruby basics (data types, variables, methods, data structures, etc.) and laid the foundation for the rest of your career as a Rubyist. Today you'll put that knowledge to the test.
 
 ### The Task
+<img src="https://after-school-assets.s3.amazonaws.com/calculator.gif" width="500px">
 In groups of 3-5 students, you must build a command line calculator. 
 
 ### The Instructions
