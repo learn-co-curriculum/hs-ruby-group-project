@@ -1,8 +1,4 @@
----
-tags: kids, ruby, group project
-languages: ruby
-type: group-project
----
+
 
 ### Putting It All Together
 Think back to week one when you learned how to use terminal. In a short time, you mastered the Ruby basics (data types, variables, methods, data structures, etc.) and laid the foundation for the rest of your career as a Rubyist. Today you'll put that knowledge to the test.
