@@ -40,3 +40,5 @@ Sure, you already know how to do this with an array, but if you didn't, writing 
 **1** Every group must present and every group member must contribute to the presentation.
 
 **2** Presentation should include a demo of your application, a description of the hardest technical challenge you faced, and a comment on the most fun part of building your application.
+
+<a href='https://learn.co/lessons/hs-ruby-group-project' data-visibility='hidden'>View this lesson on Learn.co</a>
