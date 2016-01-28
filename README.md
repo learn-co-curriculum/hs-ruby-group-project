@@ -41,4 +41,4 @@ Sure, you already know how to do this with an array, but if you didn't, writing 
 
 **2** Presentation should include a demo of your application, a description of the hardest technical challenge you faced, and a comment on the most fun part of building your application.
 
-<a href='https://learn.co/lessons/hs-ruby-group-project' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby-group-project' title='Putting It All Together'>Putting It All Together</a> on Learn.co and start learning to code for free.</p>
